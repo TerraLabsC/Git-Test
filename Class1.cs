@@ -8,5 +8,6 @@ namespace GitTestProject
 {
     internal class Class1
     {
+        float speed;
     }
 }
